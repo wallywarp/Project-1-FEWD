@@ -1,0 +1,18 @@
+body{background-color: rgb(144, 145, 144);}
+
+h1{color: rgb(255, 255, 0);;
+text-align: center; text-transform: uppercase;font font-weight: bold;} /*not seeing any change here compared to <strong> and <b> in html */
+
+.box {margin-left:auto; margin-right:auto;display: block;}
+.cookbook {text-align: center;}
+h3{text-align: center;}
+p{text-align: center;}
+.vaultboy{margin-left:auto; margin-right:auto;display: block;}
+.nonpara{text-align:center;color: rgb(255, 255, 0);font-size: 24pt;background-color: black;padding-inline: 44px;}
+/* is there an efficent way I could get the black background to extend to the width of the vaultboy image? perhaps a way to make it scale to wtv width value the vaultboy image appears in its container? */
+.recipe{font-size: 14pt;color:}
+.notes{font-size: x-large;color: white;}
+.test{color: whitesmoke;}
+.return{text-align: center;}
+.Enjoy{font-style:oblique;}
+.descript{font-size: 24pt;text-align: left;}
